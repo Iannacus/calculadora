@@ -77,15 +77,11 @@ body {
   font-weight: 700;
   font-size: 35px;
   padding: 25px;
-  transform: rotate(0deg);
-  transition: 0.2s;
 }
 
 .btn:hover {
   cursor: pointer;
-  transform: rotate(360deg);
   border: 5px solid var(--white);
-  transition: 0.2s;
 }
 
 .big-btn {
